@@ -17,7 +17,7 @@ int main()
     printf("%s    \t%s    \t%d    \t%s    \n", second.autor, second.name, second.year, second.group);
     printf("%s    \t%s    \t%d    \t%s    \n", third.autor, third.name, third.year, third.group);
     printf("hello");
-    // as
-    // sa
+    // afafsa
+    // scaccsacs
     return 777;
 }
